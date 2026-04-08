@@ -1,4 +1,4 @@
-namespace OpenAI
+namespace AzureOpenAIServer
 {
     public class WeatherForecast
     {

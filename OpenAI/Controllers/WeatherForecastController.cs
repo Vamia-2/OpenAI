@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace OpenAI.Controllers
+namespace AzureOpenAIServer.Controllers
 {
     [ApiController]
     [Route("[controller]")]
